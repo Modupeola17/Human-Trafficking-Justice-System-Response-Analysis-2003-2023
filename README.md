@@ -1,0 +1,2 @@
+# Human-Trafficking-Justice-System-Response-Analysis-2003-2023
+This project examines how reported human trafficking cases progressed through the justice system between **2003 and 2023**.  The Justice System Response Dashboard focuses on the relationship between **prosecutions and convictions**, allowing the analysis to move beyond the number of trafficking cases reported and examine how those cases translated.
